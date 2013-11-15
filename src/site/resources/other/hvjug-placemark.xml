@@ -1,0 +1,22 @@
+<Placemark>
+  <name>Happy Valley JUG (Central PA)</name>
+  <description>
+    <![CDATA[
+      If you're in the central PA area, join us for rousing discussions
+      and informative presentations about the Java programming language and
+      related technologies.  Visitors are always welcome!  See our website
+      for meeting times, locations and topics.
+      <br />
+      <b>Leaders:</b>
+          <a href="mailto:smoyer1@hvjug.org">Steve Moyer</a> and
+          <a href="mailto:ssmith1@hvjug.org">Shawn Smith</a>i
+          <br />
+      <b>Site:</b> http://www.hvjug.org
+    ]]>
+  </description>
+  <Point>
+    <coordinates>-77.862501,40.793365,0</coordinates>
+  </Point>
+  <styleUrl>#jugStyle</styleUrl>
+</Placemark>
+
